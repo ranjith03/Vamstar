@@ -2,8 +2,7 @@
 Vamstar Round -1 coding challenge
 
 
-To begin with the first round, Here is a link to a sample contract or tender:
-https://prefeitura.pbh.gov.br/saude/licitacao/pregao-eletronico-151-2020 (These are the similartypes of contracts where we would be working on)
+To begin with the first round
 
 Step1- Click the above link (webpage) - Translate into English
 
